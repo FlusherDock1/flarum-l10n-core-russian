@@ -629,7 +629,7 @@ core:
     save_changes: "Сохранить"                       # Referenced by flarum-suspend.yml, flarum-tags.yml
     settings: "Настройки"
     sign_up: "Регистрация"
-    some_others: "{count} другому|{count} другим"   # Referenced by flarum-likes.yml, flarum-mentions.yml
+    some_others: "{count, plural, one {# другому} other {# другим}}"   # Referenced by flarum-likes.yml, flarum-mentions.yml
     start_a_discussion: "Создать дискуссию"
     username: "Имя пользователя"
     users: "Пользователи"                           # Referenced by flarum-statistics.yml

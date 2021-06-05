@@ -95,6 +95,7 @@ flarum-tags:
       tags_text: "{count, plural, one {тег {tags}} other {теги {tags}}}"
       added_tags_text: "{username} добавил(а) {tagsAdded}."
       removed_tags_text: "{username} удалил(а) {tagsRemoved}."
+      tags_text: "{count, plural, one {{tags} тег} other {{tags} теги}}"
 
     # These translations are used when visiting a single tag's discussion list.
     tag:

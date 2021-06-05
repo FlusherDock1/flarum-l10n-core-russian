@@ -92,7 +92,6 @@ flarum-tags:
     # These translations are displayed between posts in the post stream.
     post_stream:
       added_and_removed_tags_text: "{username} добавил(а) {tagsAdded} и удалил(а) {tagsRemoved}."
-      tags_text: "{count, plural, one {тег {tags}} other {теги {tags}}}"
       added_tags_text: "{username} добавил(а) {tagsAdded}."
       removed_tags_text: "{username} удалил(а) {tagsRemoved}."
       tags_text: "{count, plural, one {{tags} тег} other {{tags} теги}}"
